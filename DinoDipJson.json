@@ -188,8 +188,8 @@
                         "chancetodrop": 0.5
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-                        "chancetodrop": 0.5
+                        "dino": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
+                        "chancetodrop": 0.1
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
@@ -388,4 +388,5 @@
         ]
     }
 }
+
 
