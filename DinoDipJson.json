@@ -5,7 +5,7 @@
             "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
             "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
             "/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP",
+            "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
             "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
             "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
             "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
@@ -388,3 +388,4 @@
         ]
     }
 }
+
